@@ -3,5 +3,7 @@ This repository contains C++ scripts for a horror game demo made with Unreal Eng
 
 ![](https://media0.giphy.com/media/usZYNs6WIR0ek4q4wf/giphy.gif)
 
+![](https://github.com/kaplanebru/Unreal-Demo-Project-/blob/main/Demo2.gif)
+
 ![](https://media0.giphy.com/media/4UwfPIrgLq287kc2Eb/giphy.gif)
 
